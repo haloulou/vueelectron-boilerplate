@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+.vite/
+
+# Electron binaries
+**/electron/dist/
+
+# Electron build output
+out/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+
+# IDE/editor config
+.vscode/
+.idea/
+*.swp
+
+# Cache
+.cache/
