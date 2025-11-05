@@ -15,6 +15,7 @@ Installation:
 bash
 # Cloner le projet
 git clone https://github.com/haloulou/vueelectron-boilerplate.git
+
 cd vueelectron-boilerplate
 
 # Installer les dépendances
